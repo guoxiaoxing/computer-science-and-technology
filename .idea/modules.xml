@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm-and-data-structure/algorithm-and-data-structure.iml" filepath="$PROJECT_DIR$/algorithm-and-data-structure/algorithm-and-data-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compiler-principle/compiler-principle.iml" filepath="$PROJECT_DIR$/compiler-principle/compiler-principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/computer-network/computer-network.iml" filepath="$PROJECT_DIR$/computer-network/computer-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/computer-operating-system/computer-operating-system.iml" filepath="$PROJECT_DIR$/computer-operating-system/computer-operating-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/computer-science-and-technology.iml" filepath="$PROJECT_DIR$/computer-science-and-technology.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-pattern/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-programming/java-programming.iml" filepath="$PROJECT_DIR$/java-programming/java-programming.iml" />
+    </modules>
+  </component>
+</project>
